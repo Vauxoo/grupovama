@@ -1,0 +1,4 @@
+[submodule "grupovama"]
+	path = grupovama
+	url = git@git.vauxoo.com:vauxoo/grupovama.git
+	branch = 17.0
