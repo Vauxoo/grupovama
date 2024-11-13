@@ -46,3 +46,15 @@
 	path = hr-advanced
 	url = git@git.vauxoo.com:vauxoo/hr-advanced.git
 	branch = 17.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 17.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 17.0
+[submodule "credit-management"]
+	path = credit-management
+	url = git@git.vauxoo.com:vauxoo/credit-management.git
+	branch = 17.0
